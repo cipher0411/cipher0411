@@ -14,7 +14,6 @@
 
 ###
 
-
 ## 🛠 Skills & Associated Projects
 
 | **Skill**                                         | **Associated Project**                                                                                                    |
@@ -23,8 +22,9 @@
 | ![Network](https://img.icons8.com/ios-filled/20/000000/network.png) **Network Traffic Monitoring and Attack Detection** | [Detection Lab](https://github.com/john-uwahamen/detection-lab)                                                             |
 | ![Automation](https://img.icons8.com/ios-filled/20/000000/automation.png) **Security Automation with Shuffle SOAR**         | [SOC Automation Lab](https://github.com/john-uwahamen/soc-automation)                                                        |
 | ![Incident](https://img.icons8.com/ios-filled/20/000000/incident-report.png) **Incident Response Planning and Execution**      | [SOC Automation Lab](https://github.com/john-uwahamen/soc-automation)                                                        |
-| ![Case](https://img.icons8.com/ios-filled/20/000000/folder.png) **Case Management with TheHive**                  | [SOC Automation Lab](https://github.com/john-uwahamen/soc-automation)                                                        |
+| ![Case](https://img.icons8.com/ios-filled/20/000000/file-folder.png) **Case Management with TheHive**                  | [SOC Automation Lab](https://github.com/john-uwahamen/soc-automation)                                                        |
 | ![Scripting](https://img.icons8.com/ios-filled/20/000000/code.png) **Scripting and Automation for Threat Mitigation** | [SOC Automation Lab](https://github.com/john-uwahamen/soc-automation)                                                        |
+| ![Forensics](https://img.icons8.com/ios-filled/20/000000/search.png) **Digital Forensic Investigation** | [Digital Forensic Investigation](https://github.com/cipher0411/Computer-Forensic-Investigation-Project/blob/main/README.md)  |
 
 ---
 
@@ -123,6 +123,8 @@ Here are some of the projects I’ve worked on:
 ### **🔒 Cybersecurity Projects:**
 - **[Penetration Testing for Web Apps](https://github.com/john-uwahamen/penetration-testing)**: A repository containing tools and techniques for testing the security of web applications.
 - **[Cloud Security Best Practices](https://github.com/john-uwahamen/cloud-security)**: A collection of best practices for securing AWS, Azure, and Google Cloud environments.
+- **[Digital Forensic Investigation](https://github.com/cipher0411/Computer-Forensic-Investigation-Project/blob/main/README.md)**: A project focused on the investigation of digital evidence, tools, and methodologies for computer forensic analysis.
+
 
 ### **💻 Django Web Development Projects:**
 - **[Secure User Management System](https://github.com/john-uwahamen/user-management)**: A secure and scalable user management system with features like JWT authentication and role-based access control.
