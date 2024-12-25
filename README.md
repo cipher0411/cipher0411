@@ -18,7 +18,7 @@
 
 | **Skill**                                         | **Associated Project**                                                                                                    |
 |---------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
-| ![SIEM](https://img.icons8.com/ios-filled/20/000000/security-configuration.png) **SIEM Implementation and Log Analysis**          | [Detection Lab](https://github.com/john-uwahamen/detection-lab)                                                             |
+| ![Forensics](https://img.icons8.com/ios-filled/20/000000/search.png) **iphone Forensic Investigation** | [iphone Forensic Investigation](https://github.com/cipher0411/Mobile-Phone-Forensics-Investigation.git)  |
 | ![Network](https://img.icons8.com/ios-filled/20/000000/network.png) **OpenFlow SDN with Ryu Controller Integrated with Snort (Using GNS3 Environment)** | [Detection and Mitigation Lab](https://github.com/cipher0411/OpenFlow-SDN-with-Ryu-Controller-Integrated-with-Snort.-Using-GNS3)                                                             |
 | ![Scripting](https://img.icons8.com/ios-filled/20/000000/code.png) **Scripting and Automation for Threat Mitigation** | [SOC Automation Lab](https://github.com/cipher0411/cipher0411/edit/main/README.md)                     |
 | ![Forensics](https://img.icons8.com/ios-filled/20/000000/search.png) **Digital Forensic Investigation** | [Digital Forensic Investigation](https://github.com/cipher0411/Computer-Forensic-Investigation-Project/blob/main/README.md)  |
@@ -121,6 +121,7 @@ Here are some of the projects I’ve worked on:
 - **[Penetration Testing for Web Apps](https://github.com/john-uwahamen/penetration-testing)**: A repository containing tools and techniques for testing the security of web applications.
 - **[OpenFlow SDN with Ryu Controller Integrated with Snort (Using GNS3 Environment)](https://github.com/cipher0411/OpenFlow-SDN-with-Ryu-Controller-Integrated-with-Snort.-Using-GNS3)**: This project demonstrates the integration of OpenFlow SDN using the Ryu controller with Snort, a network intrusion detection system (NIDS), for mitigating Distributed Denial of Service (DDoS) attacks in a network environment.
 - **[Digital Forensic Investigation](https://github.com/cipher0411/Computer-Forensic-Investigation-Project/blob/main/README.md)**: A project focused on the investigation of digital evidence, tools, and methodologies for computer forensic analysis.
+- **[Digital Forensic Investigation](https://github.com/cipher0411/Mobile-Phone-Forensics-Investigation.git)**: A project focused on the investigation of digital evidence, tools, and methodologies for iphone forensic analysis.
 
 
 ### **💻 Django Web Development Projects:**
