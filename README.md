@@ -125,8 +125,11 @@ Here are some of the projects I’ve worked on:
 
 
 ### **💻 Django Web Development Projects:**
-- **[Secure User Management System](https://github.com/john-uwahamen/user-management)**: A secure and scalable user management system with features like JWT authentication and role-based access control.
-- **[Blog App with Django & React](https://github.com/john-uwahamen/blog-app)**: A blog application using Django backend and React frontend.
+- **[opulentasuites.com](https://www.opulentasuites.com)**: Developed a fully functional Airbnb-like web application, allowing users to browse, book, and manage luxury accommodations in the UK.
+- **[prouessefashion.com](https://www.prouessefashion.com)**: Created an e-commerce platform for fashion, enabling users to browse, select, and purchase clothing items with a seamless shopping experience.
+- **[uvclegal.com](https://www.uvclegal.com)**: Built a web app for an immigration law firm, providing users with an easy way to book consultations and access legal services.
+- **[youtexpressservices.com](https://www.youtexpressservices.com)**: Designed a car hire application that allows users to browse and book car rental services with real-time availability and payment options.
+- **[torajaspring.co.uk](https://www.torajaspring.co.uk)**: Developed a website for a care home, featuring information about services, resident care, and facilities with a focus on user-friendly navigation and accessibility.
 
 ---
 
