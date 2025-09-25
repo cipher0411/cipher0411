@@ -1,105 +1,105 @@
-<!-- README.md - Cybersecurity + Django developer dynamic profile -->
+<!-- README.md – Cybersecurity + Django Developer Dynamic Profile -->
 
 <!-- ASCII Cyber Banner -->
-
    ____            _                             
-🔐 Cybersecurity & Django Developer Profile
-<!-- Dynamic ASCII Banner with Live Date --><p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&color=00FF00&center=true&vCenter=true&width=800&height=50&lines=🛡️+Cybersecurity+Analyst;🔍+Threat+Hunter;🐍+Django+Developer;☁️+Cloud+Security+Specialist;⚡+Secure+By+Design" alt="Animated Header"/> </p><div align="center">
+  / ___| _   _ ___| |_ ___ _ __ ___   ___  _ __  
+ | |    | | | / __| __/ _ \ '_ ` _ \ / _ \| '_ \ 
+ | |___ | |_| \__ \ ||  __/ | | | | | (_) | | | |
+  \____| \__,_|___/\__\___|_| |_| |_|\___/|_| |_| 
 
-  ██████╗██╗   ██╗██████╗ ███████╗██████╗     ██╗  ██╗██╗███╗   ██╗██╗  ██╗████████╗██████╗ ███████╗
- ██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗    ██║ ██╔╝██║████╗  ██║██║ ██╔╝╚══██╔══╝██╔══██╗██╔════╝
- ██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝    █████╔╝ ██║██╔██╗ ██║█████╔╝    ██║   ██████╔╝███████╗
- ██║       ╚██╔╝  ██╔═══╝ ██╔══╝  ██╔══██╗    ██╔═██╗ ██║██║╚██╗██║██╔═██╗    ██║   ██╔══██╗╚════██║
- ╚██████╗   ██║   ██║     ███████╗██║  ██║    ██║  ██╗██║██║ ╚████║██║  ██╗   ██║   ██║  ██║███████║
-  ╚═════╝   ╚═╝   ╚═╝     ╚══════╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝
-
-
+🔐 Cybersecurity | 🐍 Django Developer
 
 <p align="center">
-<a href="https://github.com/cipher0411">
-<img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=800&lines=🔐+Cybersecurity+Analyst;🕵️‍♂️+Threat+Hunter;🐍+Django+Developer;☁️+Cloud+%26+Networking+Specialist;⚡+Always+Learning+%26+Building" alt="typing"/>
-</a>
+  <a href="https://github.com/cipher0411" target="_blank">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=800&lines=🔐+Cybersecurity+Analyst;🕵️‍♂️+Threat+Hunter;🐍+Django+Developer;☁️+Cloud+%26+Networking+Specialist;⚡+Always+Learning+%26+Building"
+      alt="typing-banner"
+    />
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-- 🔐 Cybersecurity Enthusiast (Threat Hunting | Vulnerability Assessment | Firewall Configurations)
-- 🐍 Django Developer (Secure web apps, REST APIs, auth hardening)
-- ☁️ AWS / Networking / Cisco experience
-- 📚 Continual learner — focusing on secure-by-design systems
-- 💼 Open to collaborations, freelance, and full-time roles
+
+- 🔐 Cybersecurity Enthusiast: Threat Hunting | Vulnerability Assessment | Firewall Hardening  
+- 🐍 Django Developer: Secure Web Apps, REST APIs, Auth Hardening  
+- ☁️ Cloud & Networking: AWS, Cisco, Linux  
+- 📚 Lifelong Learner: Always exploring new security, dev & infra tech  
+- 💼 Open to collaborations, freelance gigs & full-time roles  
 
 ---
 
 ## 🚀 Tech Stack & Tools
+
 <p align="center">
-<img src="https://img.shields.io/badge/Django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Cybersecurity-%23000000.svg?&style=for-the-badge&logo=hackaday&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-%23232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Cisco-%231BA0D7.svg?&style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white" alt="Django badge"/>
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python badge"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-%23000000.svg?&style=for-the-badge&logo=hackaday&logoColor=white" alt="Cyber badge"/>
+  <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS badge"/>
+  <img src="https://img.shields.io/badge/Cisco-%231BA0D7.svg?&style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco badge"/>
+  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black" alt="Linux badge"/>
 </p>
 
 ---
 
-## 📊 GitHub Live Stats
+## 📊 GitHub Live Stats & Activity
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=cipher0411&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cipher0411&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cipher0411&show_icons=true&theme=tokyonight&count_private=true" height="160" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cipher0411&theme=tokyonight" height="160" alt="Streak stats" />
 </p>
 
 ---
 
 ## 🌐 Contribution Graph
+
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cipher0411&theme=vue-dark" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cipher0411&theme=vue-dark" alt="activity graph" />
 </p>
 
 ---
 
-## 💬 Cyber Tip of the Day
-<!-- this fragment is auto-generated by the workflow and committed to `_dynamic/quote.md` -->
-
-<!-- START_DYNAMIC_QUOTE -->
-⚡ *Use MFA everywhere — your password alone is never enough.*
-<!-- END_DYNAMIC_QUOTE -->
+## 💬 Cyber Tip of the Day  
+*⚡ Use MFA everywhere — your password alone is never enough.*  
+*(This quote is auto-updated from `_dynamic/quote.md` via GitHub Actions)*
 
 ---
 
 ## 🏆 Featured Project: Cipher Knights Platform
 
 <p align="center">
-  <a href="https://github.com/cipher0411/cipher-knights">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cipher0411&repo=cipher-knights&theme=tokyonight" alt="Cipher Knights Repo Card"/>
+  <a href="https://github.com/cipher0411/cipher-knights" target="_blank">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=cipher0411&repo=cipher-knights&theme=tokyonight"
+      alt="Cipher Knights Repo Card"
+    />
   </a>
 </p>
 
-🔐 **Cipher Knights** is a cybersecurity-focused Django platform that provides:  
-- ✅ Vulnerability Assessment tools  
-- ✅ Firewall configuration & hardening  
-- ✅ IT Support & Networking solutions  
-- ✅ Secure cloud integration  
+**🔐 Cipher Knights** is a Django-based cybersecurity platform with features like:  
+- Vulnerability assessment & scanning  
+- Firewall configuration & hardening  
+- IT & networking support modules  
+- Secure cloud integration  
 
-📂 **Project Repository:**  
 👉 [View Cipher Knights on GitHub](https://github.com/cipher0411/cipher-knights)  
-
-🎥 **Video Walkthrough:**  
-👉 [Watch on YouTube](https://youtu.be/YOUR_VIDEO_ID)  
+👉 [Video Walkthrough](https://youtu.be/YOUR_VIDEO_ID)  
 
 ---
 
+## 📈 More Dynamic Badges & Widgets
 
-## 📈 More Dynamic Badges
+- **WakaTime Coding Hours**  
+  `![wakatime](https://wakatime.com/badge/user/REPLACE_WITH_YOUR_WAKATIME_ID.svg)`  
 
-- ⏱️ WakaTime coding hours:  
-![wakatime](https://wakatime.com/badge/user/REPLACE_WITH_YOUR_WAKATIME_ID.svg)
+- **Visitor Counter**  
+  `![visitors](https://profile-counter.glitch.me/cipher0411/count.svg)`  
 
-- 👀 Visitor Counter:  
-![visitors](https://profile-counter.glitch.me/cipher0411/count.svg)
-
-
----
-
-<p align="center">Made with ❤️ — building secure & scalable software.</p>
+- **Top Languages**  
+  Use [GitHub Readme Stats Top Languages card]  
+  ```md
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=cipher0411&layout=compact&theme=tokyonight"
+    alt="Top Languages"
+  />
