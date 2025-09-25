@@ -76,24 +76,20 @@ Passionate about building secure, scalable, and intelligent infrastructure for t
 [![Issues](https://img.shields.io/github/issues/cipher0411/cipher-knights?style=for-the-badge)](https://github.com/cipher0411/cipher-knights/issues)
 
 
-🔐 **Cipher Knights** is a cybersecurity-focused Django platform that provides:  
-- ✅ Vulnerability Assessment tools  
-- ✅ Firewall configuration & hardening  
-- ✅ IT Support & Networking solutions  
-- ✅ Secure cloud integration  
+| Project | Description | Tech Stack | Links |
+|--------|-------------|------------|-------|
+| 🔐 **Cipher Knights** | Cybersecurity-focused Django platform for secure infrastructure automation. Includes vulnerability assessments, firewall config, and cloud integration. | Django, Nmap, AWS, PostgreSQL | [🔗 Repo](https://github.com/cipher0411/cipher-knights) · [🎥 Demo](https://youtu.be/YOUR_VIDEO_ID) |
+| 🌐 **NetScope** | Network scanning and visualization tool with real-time topology graphs and alerting. | Python, Scapy, D3.js | [🔗 Repo](https://github.com/cipher0411/netscope) |
+| ☁️ **CloudSentinel** | IAM auditing & misconfiguration detection in AWS environments with reporting. | Boto3, AWS Lambda, CloudTrail | [🔗 Repo](https://github.com/cipher0411/cloudsentinel) |
+| 🔎 **ThreatWatch** | Lightweight SIEM with log collection, parsing, and real-time anomaly detection. | FastAPI, ELK Stack, JWT | [🔗 Repo](https://github.com/cipher0411/threatwatch) |
 
-📂 **Project Repository:**  
-👉 [View Cipher Knights on GitHub](https://github.com/cipher0411/cipher-knights)  
-
-🎥 **Video Walkthrough:**  
-👉 [Watch on YouTube](https://youtu.be/YOUR_VIDEO_ID)  
 
 ---
 
 
 ## 🤝 Collaboration & Contact
 
-<p align="center"> <a href="mailto:johnusiabulu@cipherknights.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://linkedin.com/in/cipherknights"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://twitter.com/cipherknights"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/> </a> <a href="https://cipherknights.dev"> <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/> </a> </p>
+<p align="center"> <a href="mailto:johnusiabulu@cipherknights.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://www.linkedin.com/in/john-uwahamen-usiabulu-06b3831ba/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://twitter.com/cipherknights"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/> </a> <a href="https://cipherknights.store"> <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/> </a> </p>
 ---
 ---
 
