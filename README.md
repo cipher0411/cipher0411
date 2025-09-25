@@ -65,23 +65,37 @@
 
 ---
 
-## 🏆 Featured Project
+## 🏆 Featured Project: Cipher Knights Platform
+
 <p align="center">
-<a href="https://github.com/cipher0411/your-project-repo">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=cipher0411&repo=your-project-repo&theme=tokyonight" />
-</a>
+  <a href="https://github.com/cipher0411/cipher-knights">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cipher0411&repo=cipher-knights&theme=tokyonight" alt="Cipher Knights Repo Card"/>
+  </a>
 </p>
 
-- 🔗 [View Full Project Repository](https://github.com/cipher0411/your-project-repo)  
-- ▶️ [Watch Demo on YouTube](https://youtu.be/YOUR_VIDEO_ID)
+🔐 **Cipher Knights** is a cybersecurity-focused Django platform that provides:  
+- ✅ Vulnerability Assessment tools  
+- ✅ Firewall configuration & hardening  
+- ✅ IT Support & Networking solutions  
+- ✅ Secure cloud integration  
+
+📂 **Project Repository:**  
+👉 [View Cipher Knights on GitHub](https://github.com/cipher0411/cipher-knights)  
+
+🎥 **Video Walkthrough:**  
+👉 [Watch on YouTube](https://youtu.be/YOUR_VIDEO_ID)  
 
 ---
 
+
 ## 📈 More Dynamic Badges
-- WakaTime coding-hours (if you use WakaTime):  
-  `![wakatime](https://wakatime.com/badge/user/REPLACE_WITH_ID.svg)`
-- Visitor counter (external):  
-  `![visitors](https://profile-counter.glitch.me/cipher0411/count.svg)`
+
+- ⏱️ WakaTime coding hours:  
+![wakatime](https://wakatime.com/badge/user/REPLACE_WITH_YOUR_WAKATIME_ID.svg)
+
+- 👀 Visitor Counter:  
+![visitors](https://profile-counter.glitch.me/cipher0411/count.svg)
+
 
 ---
 
