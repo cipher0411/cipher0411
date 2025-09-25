@@ -47,11 +47,8 @@
     src="https://github-readme-stats.vercel.app/api?username=cipher0411&show_icons=true&theme=tokyonight&count_private=true" 
     height="160"
   />
-  <img 
-    src="https://streak-stats.demolab.com?user=cipher0411&theme=tokyonight" 
-    height="160"
-    alt="GitHub Streak Stats"
-  />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cipher0411&theme=tokyonight" />
+
 </p>
 
 ---
