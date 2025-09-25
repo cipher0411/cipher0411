@@ -76,11 +76,13 @@
 
 ## 🏆 Featured Project: Cipher Knights Platform
 
-<p align="center">
-  <a href="https://github.com/cipher0411/cipher-knights">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cipher0411&repo=cipher-knights&theme=tokyonight" alt="Cipher Knights Repo Card"/>
-  </a>
-</p>
+## 🏆 Cipher Knights
+
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/cipher0411/cipher-knights)
+[![Stars](https://img.shields.io/github/stars/cipher0411/cipher-knights?style=for-the-badge)](https://github.com/cipher0411/cipher-knights/stargazers)
+[![Forks](https://img.shields.io/github/forks/cipher0411/cipher-knights?style=for-the-badge)](https://github.com/cipher0411/cipher-knights/network)
+[![Issues](https://img.shields.io/github/issues/cipher0411/cipher-knights?style=for-the-badge)](https://github.com/cipher0411/cipher-knights/issues)
+
 
 🔐 **Cipher Knights** is a cybersecurity-focused Django platform that provides:  
 - ✅ Vulnerability Assessment tools  
