@@ -93,10 +93,12 @@
 ## 📈 More Dynamic Badges & Widgets
 
 - **WakaTime Coding Hours**  
-  `![wakatime](https://wakatime.com/badge/user/REPLACE_WITH_YOUR_WAKATIME_ID.svg)`  
+  [![WakaTime](https://wakatime.com/badge/user/YOUR_WAKATIME_USER_ID.svg)](https://wakatime.com/@YOUR_WAKATIME_USERNAME)
+
 
 - **Visitor Counter**  
-  `![visitors](https://profile-counter.glitch.me/cipher0411/count.svg)`  
+  ![visitors](https://profile-counter.glitch.me/cipher0411/count.svg)
+
 
 - **Top Languages**  
   Use [GitHub Readme Stats Top Languages card]  
