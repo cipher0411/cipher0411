@@ -45,11 +45,16 @@
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=cipher0411&show_icons=true&theme=tokyonight&count_private=true" 
-    height="160"
+    alt="GitHub Stats"
+    style="width: 48%; display: inline-block; vertical-align: top;" 
   />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cipher0411&theme=tokyonight" />
-
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cipher0411&theme=tokyonight" 
+    alt="GitHub Profile Summary"
+    style="width: 48%; display: inline-block; vertical-align: top;" 
+  />
 </p>
+
 
 ---
 
