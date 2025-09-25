@@ -44,10 +44,11 @@
 ## 📊 GitHub Live Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=cipher0411&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
-<p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=cipher0411&theme=tokyonight&hide_border=true)](https://github.com/cipher0411)
-</p>
-
+<img
+      src="https://streak-stats.demolab.com/?user=cipher0411&theme=tokyonight&hide_border=true"
+      alt="GitHub Streak Stats"
+      height="160"
+    />
 </p>
 
 ---
