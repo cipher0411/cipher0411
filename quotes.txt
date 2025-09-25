@@ -1,0 +1,10 @@
+Always validate input on the server — never trust client-side checks alone.
+Use least privilege: users and services should have the minimum permissions they need.
+Rotate secrets regularly and store them in a secure vault, not in code.
+Keep dependencies up to date; patch known vulnerabilities swiftly.
+Encrypt sensitive data at-rest and in-transit.
+Log securely but avoid storing sensitive data in logs.
+Practice secure deployment: use CI checks and automated tests before release.
+Implement multi-factor authentication where possible.
+Run regular vulnerability scans and penetration tests.
+Use Content Security Policy (CSP) headers to mitigate XSS risks.

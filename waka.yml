@@ -1,0 +1,9 @@
+# WakaTime — add this snippet into README (replace REPLACE_WITH_ID with your WakaTime user id)
+# Badge example (place in README):
+# ![wakatime](https://wakatime.com/badge/user/REPLACE_WITH_ID.svg)
+
+
+# To enable WakaTime metrics:
+# 1. Sign up at https://wakatime.com
+# 2. Install the WakaTime plugin for your editor and follow setup.
+# 3. Replace the ID above in README.

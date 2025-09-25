@@ -1,0 +1,10 @@
+# Placeholder config for the 'lowlighter/metrics' or other metrics actions.
+# You can adapt or replace with the metrics tool you prefer.
+name: Metrics Config
+
+
+settings:
+timezone: Europe/London
+include_private: true
+show_languages: true
+show_repos: true
