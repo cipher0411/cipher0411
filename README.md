@@ -2,13 +2,12 @@
 
 <!-- ASCII Cyber Banner -->
 
-   ____            _                             
-  / ___| _   _ ___| |_ ___ _ __ ___   ___  _ __  
- | |    | | | / __| __/ _ \ '_ ` _ \ / _ \| '_ \ 
- | |___ | |_| \__ \ ||  __/ | | | | | (_) | | | |
-  \____| \__,_|___/\__\___|_| |_| |_|\___/|_| |_| 
-       
- 🔐 Cybersecurity | 🐍 Django Developer
+<h2 align="center">🔐 Cybersecurity Engineer &nbsp; | &nbsp; 🐍 Django Developer &nbsp; | &nbsp; ☁️ Cloud Security Specialist</h2>
+
+<p align="center">
+Passionate about building secure, scalable, and intelligent infrastructure for the modern web.
+</p>
+
 
 
 
