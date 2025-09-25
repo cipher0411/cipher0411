@@ -3,12 +3,15 @@
 <!-- ASCII Cyber Banner -->
 
    ____            _                             
-  / ___| _   _ ___| |_ ___ _ __ ___   ___  _ __  
- | |    | | | / __| __/ _ \ '_ ` _ \ / _ \| '_ \ 
- | |___ | |_| \__ \ ||  __/ | | | | | (_) | | | |
-  \____| \__,_|___/\__\___|_| |_| |_|\___/|_| |_| 
-       
- 🔐 Cybersecurity | 🐍 Django Developer
+🔐 Cybersecurity & Django Developer Profile
+<!-- Dynamic ASCII Banner with Live Date --><p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&color=00FF00&center=true&vCenter=true&width=800&height=50&lines=🛡️+Cybersecurity+Analyst;🔍+Threat+Hunter;🐍+Django+Developer;☁️+Cloud+Security+Specialist;⚡+Secure+By+Design" alt="Animated Header"/> </p><div align="center">
+
+  ██████╗██╗   ██╗██████╗ ███████╗██████╗     ██╗  ██╗██╗███╗   ██╗██╗  ██╗████████╗██████╗ ███████╗
+ ██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗    ██║ ██╔╝██║████╗  ██║██║ ██╔╝╚══██╔══╝██╔══██╗██╔════╝
+ ██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝    █████╔╝ ██║██╔██╗ ██║█████╔╝    ██║   ██████╔╝███████╗
+ ██║       ╚██╔╝  ██╔═══╝ ██╔══╝  ██╔══██╗    ██╔═██╗ ██║██║╚██╗██║██╔═██╗    ██║   ██╔══██╗╚════██║
+ ╚██████╗   ██║   ██║     ███████╗██║  ██║    ██║  ██╗██║██║ ╚████║██║  ██╗   ██║   ██║  ██║███████║
+  ╚═════╝   ╚═╝   ╚═╝     ╚══════╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝
 
 
 
