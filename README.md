@@ -18,11 +18,40 @@ Passionate about building secure, scalable, and intelligent infrastructure for t
 ---
 
 ## 👨‍💻 About Me
-- 🔐 Cybersecurity Enthusiast (Threat Hunting | Vulnerability Assessment | Firewall Configurations)
-- 🐍 Django Developer (Secure web apps, REST APIs, auth hardening)
-- ☁️ AWS / Networking / Cisco experience
-- 📚 Continual learner — focusing on secure-by-design systems
-- 💼 Open to collaborations, freelance, and full-time roles
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,aws,linux,git,postgres" alt="Tech Stack" />
+</p>
+
+Hi there! I'm a passionate **Cybersecurity Analyst** and **Django Developer** who loves building secure, scalable, and cloud-native applications. I blend strong coding skills with deep security insight to deliver solutions that are not only functional — but hardened by design.
+
+---
+
+### 🧠 Areas of Focus
+
+- 🔐 **Cybersecurity**: Threat Hunting, Vulnerability Management, Firewall Rule Engineering, SOC Operations
+- 🐍 **Secure Web Development**: Django (Auth, REST, ORM), DRF, JWT, OAuth, Rate Limiting
+- ☁️ **Cloud & Networking**: AWS EC2, IAM, VPCs, Security Groups, Route Tables, Cisco Networking
+- 📈 **DevSecOps**: Secure CI/CD pipelines, Docker hardening, Infrastructure as Code (IaC)
+- 🔍 **Security Mindset**: Threat modeling, secure-by-default design, CVE analysis
+
+---
+
+### 🎯 Career Highlights
+
+- 🏆 Built a Django platform that automates vulnerability scanning + firewall enforcement
+- ☁️ Designed a secure AWS deployment pipeline using Boto3 + Terraform
+- 🔎 Performed simulated adversary threat hunts across hybrid network topologies
+- 👨‍🏫 Delivered internal training on DevSecOps for cross-functional engineering teams
+
+---
+
+### 🤝 Let’s Connect
+
+- 💼 Open to **freelance, remote**, and **full-time** opportunities
+- 📬 Reach me via [LinkedIn](https://www.linkedin.com/in/john-uwahamen-usiabulu-06b3831ba/) or [GitHub](https://github.com/cipher0411)
+- ⚡ Always learning, always building
+
 
 ---
 
