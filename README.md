@@ -91,14 +91,15 @@ Passionate about building secure, scalable, and intelligent infrastructure for t
 ---
 
 
-## 📈 More Dynamic Badges
+## 🤝 Collaboration & Contact
 
-- ⏱️ WakaTime coding hours:  
-![wakatime](https://wakatime.com/badge/user/REPLACE_WITH_YOUR_WAKATIME_ID.svg)
+<p align="center"> <a href="mailto:johnusiabulu@cipherknights.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://linkedin.com/in/cipherknights"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://twitter.com/cipherknights"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/> </a> <a href="https://cipherknights.dev"> <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/> </a> </p>
+---
+---
 
-- 👀 Visitor Counter:  
-![visitors](https://profile-counter.glitch.me/cipher0411/count.svg)
+## 🎖️ Certifications & Badges
 
+<p align="center"> <img src="https://img.shields.io/badge/AWS%20Security-Specialist-orange?style=flat-square" alt="AWS Security"/> <img src="https://img.shields.io/badge/CISSP-Certified-red?style=flat-square" alt="CISSP"/> <img src="https://img.shields.io/badge/CEH-Certified-brightgreen?style=flat-square" alt="CEH"/> <img src="https://img.shields.io/badge/Django-Security%20Expert-green?style=flat-square" alt="Django Security"/> </p>
 
 ---
 
