@@ -70,12 +70,14 @@
 
 <p align="center">
   <a href="https://github.com/cipher0411/cipher-knights" target="_blank">
-    <img
+    <img 
+      align="center"
       src="https://github-readme-stats.vercel.app/api/pin/?username=cipher0411&repo=cipher-knights&theme=tokyonight"
       alt="Cipher Knights Repo Card"
     />
   </a>
 </p>
+
 
 **🔐 Cipher Knights** is a Django-based cybersecurity platform with features like:  
 - Vulnerability assessment & scanning  
