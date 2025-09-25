@@ -76,12 +76,34 @@
 
 ## 🏆 Featured Project: Cipher Knights Platform
 
-## 🏆 Cipher Knights
+## 🏆 Cipher Knights: Secure Infrastructure Automation
+
+A cybersecurity-focused **Django platform** offering tools for secure infrastructure management.
+
+🔐 **Core Capabilities**:
+- 🕵️‍♂️ Threat detection, vulnerability scanning, and alerting
+- 🧱 Firewall configuration & hardening (iptables, ufw, Cisco ACLs)
+- ☁️ Secure AWS deployments with IAM, VPC, and EC2 baseline hardening
+- 📡 Network reconnaissance and topology mapping
+- 🔐 Role-based access controls (RBAC) with JWT authentication
+- 🛡️ Secure API integrations for SIEM and log collection
+
+---
+
+### 🔗 Project Links & Stats
 
 [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/cipher0411/cipher-knights)
 [![Stars](https://img.shields.io/github/stars/cipher0411/cipher-knights?style=for-the-badge)](https://github.com/cipher0411/cipher-knights/stargazers)
 [![Forks](https://img.shields.io/github/forks/cipher0411/cipher-knights?style=for-the-badge)](https://github.com/cipher0411/cipher-knights/network)
 [![Issues](https://img.shields.io/github/issues/cipher0411/cipher-knights?style=for-the-badge)](https://github.com/cipher0411/cipher-knights/issues)
+
+---
+
+### 📂 Repository
+
+> **GitHub:** [cipher0411/cipher-knights](https://github.com/cipher0411/cipher-knights)  
+> **Tech Stack:** Django, PostgreSQL, AWS (EC2/VPC/IAM), Nmap, iptables, Celery, Docker  
+> **Use Cases:** Cybersecurity automation, DevSecOps pipelines, SME-level infrastructure hardening  
 
 
 🔐 **Cipher Knights** is a cybersecurity-focused Django platform that provides:  
