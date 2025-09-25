@@ -1,5 +1,3 @@
-<!-- README.md - Cybersecurity + Django developer dynamic profile -->
-
 <!-- ASCII Cyber Banner -->
 
 <h2 align="center">🔐 Cybersecurity Engineer &nbsp; | &nbsp; 🐍 Django Developer &nbsp; | &nbsp; ☁️ Cloud Security Specialist</h2>
@@ -28,15 +26,13 @@ Passionate about building secure, scalable, and intelligent infrastructure for t
 
 ---
 
-## 🚀 Tech Stack & Tools
-<p align="center">
-<img src="https://img.shields.io/badge/Django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Cybersecurity-%23000000.svg?&style=for-the-badge&logo=hackaday&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-%23232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Cisco-%231BA0D7.svg?&style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+🛠️ Tech Stack & Security Tools
+🔐 Cybersecurity
+<p align="center"> <img src="https://img.shields.io/badge/SIEM-%23000000.svg?style=for-the-badge&logo=elasticstack&logoColor=white" alt="SIEM"/> <img src="https://img.shields.io/badge/Threat%20Intel-%23FF6B00.svg?style=for-the-badge&logo=alienware&logoColor=white" alt="Threat Intelligence"/> <img src="https://img.shields.io/badge/Penetration%20Testing-%239B111E.svg?style=for-the-badge&logo=target&logoColor=white" alt="Penetration Testing"/> <img src="https://img.shields.io/badge/Firewall-%230075FF.svg?style=for-the-badge&logo=pfSense&logoColor=white" alt="Firewall"/> </p>
+💻 Development
+<p align="center"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> </p>
+☁️ Cloud & Infrastructure
+<p align="center"> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/> </p>
 
 ---
 
